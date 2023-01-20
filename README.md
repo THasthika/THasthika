@@ -12,8 +12,6 @@ Hello, I'm a Software Engineer and a Computer Science Postgrad currently doing m
 - Javascript/Typescript
 - C
 - C++
-- Rust (Learning)
-- Elixir (Learning)
 
 ### Frameworks
 

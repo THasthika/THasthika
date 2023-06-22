@@ -1,44 +1,37 @@
-### Hi there 👋
+# Tharindu Hasthika
 
-![Tharindu Hasthika's GitHub stats](https://github-readme-stats.vercel.app/api?username=THasthika&count_private=true&show_icons=true)
+## Software Engineer
 
-### Basic Info
+### About Me
 
-Hello, I'm a Software Engineer and a Computer Science Postgrad currently doing my masters. I'm mostly interested in software architecture, functional languages and artificial intelligence. I also enjoy reading and music.
+Hello, I'm Tharindu Hasthika, a passionate software engineer with 2+ years of experience. I enjoy building innovative solutions and exploring new technologies. My GitHub profile is a collection of my side projects and repositories where I showcase my skills.
 
-### Programming Languages
+### Tech Stack
 
-- Python
-- Javascript/Typescript
-- C
-- C++
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow)&nbsp;
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
+![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nestjs)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 
-### Frameworks
+### 📊 GitHub Stats
 
-#### Python
+[![Tharindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=THasthika&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-- Flask
-- PyTorch
-- Tensorflow
+### 🤝🏻 Let's Connect
 
-#### Javascript/Typescript
+If you're interested in discussing exciting projects or simply want to say hi, please feel free to reach out and connect with me! I'm always open to engaging in conversations and exploring new opportunities. Let's collaborate and create something amazing together!
 
-- NestJS
-- NextJS
-- React
-- Express
-
-<!--
-**THasthika/THasthika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/thasthika)
+[![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)](https://twitter.com/THasthika)
+[![Medium](https://img.shields.io/badge/-Hashnode-05122A?style=flat&logo=hashnode)](https://hashnode.com/@THasthika)

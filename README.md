@@ -4,7 +4,7 @@
 
 ### About Me
 
-Hello, I'm Tharindu Hasthika, a passionate software engineer with 2+ years of experience. I enjoy building innovative solutions and exploring new technologies. My GitHub profile is a collection of my side projects and repositories where I showcase my skills.
+Hello, I'm Tharindu Hasthika, a passionate software engineer. I enjoy creating software and exploring new technologies.
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;

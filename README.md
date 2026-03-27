@@ -1,44 +1,33 @@
 # Tharindu Hasthika
 
-## Software Engineer
+Fullstack engineer based in Tokyo. Interested in systems, language tooling,
+and self-hosted infrastructure.
 
-### About Me
+📝 [blog.tharinduhasthika.com](https://blog.tharinduhasthika.com)
 
-Hello, I'm Tharindu Hasthika, a passionate software engineer. I enjoy creating software and exploring new technologies.
+---
 
-### Programming Languages
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)&nbsp;
-![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
+## Currently
 
-### Everything Else
+- Exploring how to incorporate coding agents into workflows without losing the learning along the way
+- Personal finance tooling, local AI assistant deployment, home server setup
 
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow)&nbsp;
-![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
-![Nest.js](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nestjs)
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+## Stack
 
+**Daily:** TypeScript · Vue · React Native · GraphQL · Prisma · PostgreSQL · Expo · GCP  
+**Also use:** Go · Python · C/C++ · Docker
 
-### 📊 GitHub Stats
+## Some things I've built
 
-[![Tharindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=THasthika&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+| | |
+|---|---|
+| [tanki](https://github.com/THasthika/tanki) | Local Anki deck builder with LLM integration for Japanese vocab — TypeScript |
+| [simple-os](https://github.com/THasthika/simple-os) | OS implementation from scratch — C |
+| [simple-interpreter](https://github.com/THasthika/simple-interpreter) | Interpreter with lex and yacc — C |
+| [pikster-go](https://github.com/THasthika/pikster-go) | Image color clustering via k-means — Go |
+| [node-memory-kv](https://github.com/THasthika/node-memory-kv) | In-memory key-value store — TypeScript |
 
-### 🤝🏻 Let's Connect
-
-If you're interested in discussing exciting projects or simply want to say hi, please feel free to reach out and connect with me! I'm always open to engaging in conversations and exploring new opportunities. Let's collaborate and create something amazing together!
+---
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/thasthika)
-[![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)](https://twitter.com/THasthika)
-[![Medium](https://img.shields.io/badge/-Hashnode-05122A?style=flat&logo=hashnode)](https://hashnode.com/@THasthika)
+[![Blog](https://img.shields.io/badge/-Blog-05122A?style=flat&logo=ghost)](https://blog.tharinduhasthika.com)
